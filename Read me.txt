@@ -1,0 +1,8 @@
+Our project is build by Android Studio. You can directly import this project if you SDE is also Android Studio
+
+Software Environments
+	SDK Version 	“17”
+	Build Tool Version   “23.0.3”
+	Java Version          “1.8.0_91”
+
+
